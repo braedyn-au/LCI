@@ -1,0 +1,4 @@
+git clone https://github.com/imodpasteur/ANNA-PALM
+cd ANNA-PALM
+
+pip install -requirements.txt
